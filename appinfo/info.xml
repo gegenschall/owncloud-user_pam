@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+	<id>user_pam</id>
+	<name>PAM user backend</name>
+	<description>Authenticate users by Pluggable Authentication Module (PAM)</description>
+	<version>0.1</version>
+	<licence>AGPL</licence>
+	<author>Max Liebkies</author>
+	<require>2</require>
+</info>
