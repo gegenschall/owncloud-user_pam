@@ -1,3 +1,8 @@
+Big fat disclaimer
+=============================
+This project is not maintained and the last known ownCloud version it is known to work with is 2.x (current: 9.x). 
+In other words: Don't use this. At all. Ever. This is just here for historic/archival purposes.
+
 ownCloud - PAM Authentication
 =============================
 
